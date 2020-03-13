@@ -1,5 +1,5 @@
-# alana-ted_retangulo
-área de um retângulo
+# alana-ted_moldura
+área de uma moldura
 
 package visao;
 import java.util.Scanner;
